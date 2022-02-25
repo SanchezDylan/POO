@@ -1,0 +1,14 @@
+C:\Users\Dylan\Desktop\POO\Sistema\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\Dylan\Desktop\POO\Sistema\Sistema\bin\Debug\Sistema.exe
+C:\Users\Dylan\Desktop\POO\Sistema\Sistema\bin\Debug\Sistema.pdb
+C:\Users\Dylan\Desktop\POO\Sistema\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+C:\Users\Dylan\Desktop\POO\Sistema\Sistema\obj\Debug\Sistema.Form1.resources
+C:\Users\Dylan\Desktop\POO\Sistema\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\Dylan\Desktop\POO\Sistema\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\Dylan\Desktop\POO\Sistema\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\POO\Sistema\Sistema\obj\Debug\Sistema.exe
+C:\Users\Dylan\Desktop\POO\Sistema\Sistema\obj\Debug\Sistema.pdb
+C:\Users\Dylan\Desktop\POO\Sistema\Sistema\obj\Debug\Sistema.Form3.resources
+C:\Users\Dylan\Desktop\POO\Sistema\Sistema\obj\Debug\Sistema.Form2.resources
+C:\Users\Dylan\Desktop\POO\Sistema\Sistema\obj\Debug\Sistema.Form5.resources
+C:\Users\Dylan\Desktop\POO\Sistema\Sistema\obj\Debug\Sistema.Form6.resources
